@@ -1,0 +1,22 @@
+Gullatt's house, South neighbourhood, 100000
+Curd's house, West neighbourhood, 120000
+Poorman's house, South neighbourhood, 90000
+Hasson's house, South neighbourhood, 80000
+Hailey's house, South neighbourhood, 50000
+Mckell's house, West neighbourhood, 200000
+Slaubaugh's house, South neighbourhood, 130000
+Harte's house, West neighbourhood, 134000
+Rodrigue's house, South neighbourhood, 120000
+Dentler's house, West neighbourhood, 170000
+Nicoletti's house, South neighbourhood, 60000
+Wilkerson's house, West neighbourhood, 60000
+Akey's house, South neighbourhood, 80000
+Akey's house, Not South neighbourhood, 80000
+Akey's house, Not South neighbourhood, 80000
+Jack's house, West neighbourhood, 60000
+Agnew's house, South neighbourhood, 70000
+Cleveland's house, West neighbourhood, 145000
+Laprade's house, South neighbourhood, 130000
+Mehaffey's house, West neighbourhood, 180000
+Landman's house, South neighbourhood, 190000
+Mckeown's house, West neighbourhood, 220000
